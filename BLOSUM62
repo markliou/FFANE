@@ -1,0 +1,7 @@
+--2017-11-13 09:51:10--  https://www.ncbi.nlm.nih.gov/Class/FieldGuide/BLOSUM62.txt
+正在查找主機 www.ncbi.nlm.nih.gov... 130.14.29.110
+正在連接 www.ncbi.nlm.nih.gov|130.14.29.110|:443... 連上了。
+錯誤: cannot verify www.ncbi.nlm.nih.gov's certificate, issued by `/C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert SHA2 High Assurance Server CA':
+  Unable to locally verify the issuer's authority.
+如果不想用安全模式連接 www.ncbi.nlm.nih.gov，請使用 ‘--no-check-certificate’ 選項
+無法建立 SSL 連線。
